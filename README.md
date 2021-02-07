@@ -17,5 +17,3 @@ Descrição: Você deverá implementar em Java com exatamente o mesmo comportame
 
 # Como executar:
 Os executáveis se encontram na pasta Target. No Windows basta um double click no arquivo JogoGourmet.exe ou utilizar a seguinte linha de comando: ./JogoGourmet.exe ou ainda se preferir também pode executar o arquivo jar, com a seguinte linha de comando: java -jar JogoGourmet.jar. Para outros sistemas operacionais basta executar o arquivo jar.
-
-# Decisões de Projeto:
